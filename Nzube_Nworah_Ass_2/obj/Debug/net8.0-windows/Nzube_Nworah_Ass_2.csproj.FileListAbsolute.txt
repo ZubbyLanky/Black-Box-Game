@@ -1,0 +1,36 @@
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.Properties.Resources.resources
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.csproj.GenerateResource.cache
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.AssemblyInfoInputs.cache
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.AssemblyInfo.cs
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.csproj.CoreCompileInputs.cache
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\bin\Debug\net8.0-windows\Nzube_Nworah_Ass_2.exe
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\bin\Debug\net8.0-windows\Nzube_Nworah_Ass_2.deps.json
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\bin\Debug\net8.0-windows\Nzube_Nworah_Ass_2.runtimeconfig.json
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\bin\Debug\net8.0-windows\Nzube_Nworah_Ass_2.dll
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\bin\Debug\net8.0-windows\Nzube_Nworah_Ass_2.pdb
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.dll
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\refint\Nzube_Nworah_Ass_2.dll
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.pdb
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.genruntimeconfig.cache
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\ref\Nzube_Nworah_Ass_2.dll
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.DesignForm.resources
+C:\Users\nwora\OneDrive\Desktop\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.ControlPanel.resources
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\bin\Debug\net8.0-windows\Nzube_Nworah_Ass_2.exe
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\bin\Debug\net8.0-windows\Nzube_Nworah_Ass_2.deps.json
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\bin\Debug\net8.0-windows\Nzube_Nworah_Ass_2.runtimeconfig.json
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\bin\Debug\net8.0-windows\Nzube_Nworah_Ass_2.dll
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\bin\Debug\net8.0-windows\Nzube_Nworah_Ass_2.pdb
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.ControlPanel.resources
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.DesignForm.resources
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.Properties.Resources.resources
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.csproj.GenerateResource.cache
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.AssemblyInfoInputs.cache
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.AssemblyInfo.cs
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.csproj.CoreCompileInputs.cache
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.dll
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\refint\Nzube_Nworah_Ass_2.dll
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.pdb
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\Nzube_Nworah_Ass_2.genruntimeconfig.cache
+E:\1 TB\Conestoga\Third Semester\ThirdSemester\Prog 2370\Week 6\Ass Week 6\Nzube_Nworah_Ass_2\Nzube_Nworah_Ass_2\obj\Debug\net8.0-windows\ref\Nzube_Nworah_Ass_2.dll
